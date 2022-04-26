@@ -1,0 +1,14 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#VSCode files
+.vscode
+
+#dotenv
+.env
+
+#docgen
+docs
