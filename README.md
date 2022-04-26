@@ -1,2 +1,1 @@
-# Contracts
 # SmartContracts-TerraBioDao
